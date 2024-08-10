@@ -1,3 +1,3 @@
-export default function Item({ content }){
-    return <li> {content} </li>
+export default function Item({ content }) {
+  return <li> {content} </li>;
 }
